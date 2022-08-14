@@ -7,5 +7,5 @@
 5. Play Music
 
 ->Run on your Device
-pip install -r requirements.txt
+pip install -r requirements.txt &&
 python jarvis.py
